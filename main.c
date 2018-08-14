@@ -16,7 +16,7 @@
  * 5 - myls using threads and recursive search
  * 6 - myfind using threads (Producer/Consumer) and recursive search 
  * 
- * @see https://www.linkedin.com/in/rvpf95/
+ * @see www.linkedin.com/in/rafaf10
  * @see https://robots.thoughtbot.com/tab-completion-in-gnu-readline
  * @see http://man7.org/linux/man-pages/man2/stat.2.html
  */
